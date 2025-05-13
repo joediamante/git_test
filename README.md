@@ -1,1 +1,1 @@
-Hello Odin # git_test
+Hello Odin cd ~# git_test
